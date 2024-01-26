@@ -1,4 +1,4 @@
-import FunctionPage from 'src/pages/FunctionPage.vue'
+import FunctionPage from 'src/pages/IndexPage.vue'
 import { shallowMount } from '@vue/test-utils'
 
 describe('IndexPage', () => {
