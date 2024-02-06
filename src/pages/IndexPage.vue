@@ -19,7 +19,7 @@ export default {
   name: 'HtmlComponent',
   data() {
     return {
-      title: 'Vue is awesome .',
+      title: 'Pimonpan Ngernthong 6404101327',
       firstValue:0,
       secondValue:0,
       answerVulue:0
